@@ -29,3 +29,16 @@ Status: [-] Priority: Medium
 Dependencies: None
 Progress Notes:
 - v0.0.1 Created PHASE-1 directory; pending project requirements file
+- v0.0.2 Pending project info to fill requirements
+
+[ID-004] Fix V5.0.ipynb: unify LoRA, add ultralytics, secure ngrok, restart ComfyUI
+Status: [X] Priority: High
+Dependencies: None
+Progress Notes:
+- v0.0.2 Edits applied to notebook; no video assembly added
+
+[ID-005] Ensure UltralyticsDetectorProvider/SegsDetailer availability in ComfyUI
+Status: [ ] Priority: High
+Dependencies: [ID-004]
+Progress Notes:
+- v0.0.2 To verify via /object_info after environment run in Colab
