@@ -1,0 +1,1 @@
+[v0.0.1] Development: Initialized Cursor rules scaffolding, created `.cursor/rules.md`, `@memories.md`, `@lessons-learned.md`, `@scratchpad.md`, and `docs/phases/PHASE-1/` directories based on provided rules. Established documentation and operational protocols.

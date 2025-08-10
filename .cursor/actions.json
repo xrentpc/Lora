@@ -1,0 +1,21 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getcursor/cursor/main/schemas/actions.schema.json",
+  "version": 1,
+  "actions": [
+    {
+      "name": "open_memories",
+      "command": "code -r @memories.md",
+      "description": "Open memories file"
+    },
+    {
+      "name": "open_lessons",
+      "command": "code -r @lessons-learned.md",
+      "description": "Open lessons learned file"
+    },
+    {
+      "name": "open_scratchpad",
+      "command": "code -r @scratchpad.md",
+      "description": "Open scratchpad"
+    }
+  ]
+}
