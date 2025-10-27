@@ -1,0 +1,2 @@
+[2025-08-10 00:00] Initialization: Established documentation framework → Created rules, memories, lessons, scratchpad, and phases directories → Ensures consistent ops and knowledge retention. #documentation #foundation
+[2025-08-10 00:20] Configuration: Issue: Inconsistent LoRA paths/extensions and hardcoded ngrok token in Colab notebook → Fix: Standardized to models/loras with .pth and read token from env; restart ComfyUI after node install → Why: Prevents runtime errors in node resolution and mitigates credential leakage; ensures new nodes load.
